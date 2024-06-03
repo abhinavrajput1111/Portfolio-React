@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.skill_percentage {
+  background: linear-gradient(to right, #f2709c, #ff9472);
+}
+
+.video_call:hover {
+  text-shadow: 2px, 2px, 4px, 2px rgba(255, 4, 4, 0.171);
+  background: linear-gradient(to right, #f2709c, #ff9472);
+}
