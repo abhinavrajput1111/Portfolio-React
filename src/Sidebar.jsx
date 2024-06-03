@@ -49,7 +49,7 @@ export default function Sidebar() {
 
             {/* This is the code LOCATION */}
             <div className="flex items-center justify-evenly gap-5 py-1 px-2  rounded-md w-5/6">
-              <div class="sidebar_left w-[20%] bg-slate-200 rounded-lg">
+              <div className="sidebar_left w-[20%] bg-slate-200 rounded-lg">
                 <LocationOnIcon
                   style={{ fontSize: "2rem" }}
                   className="font-bold text-blue-950 "
@@ -65,7 +65,7 @@ export default function Sidebar() {
             {/* This is the code LOCATION */}
 
             <div className="flex items-center justify-evenly gap-5 py-1 px-2  rounded-md w-5/6">
-              <div class="sidebar_left w-[20%] h-9 bg-slate-200 rounded-lg">
+              <div className="sidebar_left w-[20%] h-9 bg-slate-200 rounded-lg">
                 <Person4Icon
                   style={{ fontSize: "2rem" }}
                   className="font-bold text-blue-950  "
